@@ -1,4 +1,6 @@
-# parleto
+# Vue project
+ link to Workers-Table:
+ https://vue123v.web.app
 
 ## Project setup
 ```
